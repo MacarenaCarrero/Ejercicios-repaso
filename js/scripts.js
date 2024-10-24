@@ -61,3 +61,6 @@ const multiplicationNumbers = (num1, num2) => {
 
 const resultMultiNumbers = multiplicationNumbers(3, 3);
 console.log(resultMultiNumbers);
+
+//septimo
+

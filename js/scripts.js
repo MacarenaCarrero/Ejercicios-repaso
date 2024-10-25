@@ -64,3 +64,15 @@ console.log(resultMultiNumbers);
 
 //septimo
 
+const sumDigits =(number) =>{
+const num1= number [0]
+const num2 =number [1]
+const num3=number [2]
+
+const additionNumber = num1 +num2+num3
+return additionNumber
+
+} 
+
+const resultAdditionNumber =sumDigits ([326])
+console.log (resultAdditionNumber)
